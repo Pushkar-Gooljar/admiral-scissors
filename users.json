@@ -1,0 +1,98 @@
+[
+    {
+        "user": "alpha",
+        "password": "974d8d016a1e4f228f8347c1369fe1fbd60acb6e788b89e6cb7569955bcda4bd"
+    },
+    {
+        "user": "beta",
+        "password": "25e3ec3d285a7bcceff633debd998f6f6b0f44f5a100c0e7f85296185d745ab5"
+    },
+    {
+        "user": "gamma",
+        "password": "317f98f7a5a390c92bcf9f5b093eee030d5124fe2e0c20c520da77c011b0481c"
+    },
+    {
+        "user": "delta",
+        "password": "4931759395fe64a9fa817fb8d81fe3988f20920c56a7eeea33099f397683a08c"
+    },
+    {
+        "user": "epsilon",
+        "password": "2098d0e40c7c9f25c768429a31c43eab71dc778af1a09807714738f3b7c0a917"
+    },
+    {
+        "user": "zeta",
+        "password": "e68f11de8175bc75c374961bd40f7ed96132a35babf34644adb18be7482297db"
+    },
+    {
+        "user": "eta",
+        "password": "2f7ff4c2eb4a07ec2a10a898f02bc19f9f0b51ba14e320180710583c706a9595"
+    },
+    {
+        "user": "theta",
+        "password": "b547b718889a9baddcbcec6a6dbc8c5b564586e4c70a458507871596c0821303"
+    },
+    {
+        "user": "iota",
+        "password": "c7ff0661d0c71644a94aac0bc1ca89e9c418c4d09030b2d029cbd7ef57f20140"
+    },
+    {
+        "user": "kappa",
+        "password": "7838cd0c8b32fbee39fb69c4f576102f4f26cd3420d34b4ebb2b8568799657e8"
+    },
+    {
+        "user": "lambda",
+        "password": "38f429726c64bc4b645e235ae0ce19301caee73c6730e56ae61df25ca0b2631f"
+    },
+    {
+        "user": "mu",
+        "password": "88bb2ef6cabc0f06371b3e1db55375500d45181bc2c7889af89d7d81eb65d274"
+    },
+    {
+        "user": "nu",
+        "password": "310af53d515e956160e740f9da90cafafc5f6c9aea2de80d8fc4b201f10586d2"
+    },
+    {
+        "user": "xi",
+        "password": "87fc4c29afca6f79e8b0b13815f676da86aaf98f6e4d90018281ad15c58e30c1"
+    },
+    {
+        "user": "omicron",
+        "password": "c877c361365b76dc8b7a3f978df8e702817f75f145f992a86677745e55d0fd70"
+    },
+    {
+        "user": "pi",
+        "password": "7fb6292b36124bf3c1d15d06d485eece3dbcc6a11874eb316742598c0b717c71"
+    },
+    {
+        "user": "rho",
+        "password": "ce469ecd64a187cef2516e3503b3e98d2710516e18ad255a631a099f694e06d6"
+    },
+    {
+        "user": "sigma",
+        "password": "ae055b848f7e0f3cf45f7063130535900745668012c2f9fb1b0836165796e329"
+    },
+    {
+        "user": "tau",
+        "password": "c58c67ff6f6cc7e45a13245272e7d3154c8a905ff9628db9f8ceb2201226025f"
+    },
+    {
+        "user": "upsilon",
+        "password": "235f408f521e9f40731e0a56d888fc6befaa310f91566fabbdc472e6f83fa482"
+    },
+    {
+        "user": "phi",
+        "password": "ec4cf2b504e4e73341c90cf005c4c365ff12673c3de6d93452dff1c38e756180"
+    },
+    {
+        "user": "chi",
+        "password": "59949d6da92294427605acb15172a2b9285b41b373ffa90beb99c7eeab115e6a"
+    },
+    {
+        "user": "psi",
+        "password": "ea01e7bd679a036e5c1762a25d29e4483c3db95c6c9ed210dabda891df3abe46"
+    },
+    {
+        "user": "omega",
+        "password": "23dabc1b842d36007b6d176986549724899babb7e66ae59b4d946965cd33b9cc"
+    }
+]
